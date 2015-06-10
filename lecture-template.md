@@ -1,6 +1,6 @@
 # Lecture Template
 
-## SWBATs
+## Objectives
 
 + Understand what constitutes an *event*
 + Attach jQuery event handlers (like 'click') to HTML elements
