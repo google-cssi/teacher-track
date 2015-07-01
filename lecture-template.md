@@ -1,8 +1,14 @@
+---
+tags:
+level:
+languages:
+---
+
 # Lecture Template
 
 ## Objectives
 
-+ 
++
 
 ## Motivation / Why Should You Care?
 
@@ -15,4 +21,4 @@
 
 ## Hints and Hurdles
 
-+ 
++

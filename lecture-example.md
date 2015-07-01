@@ -1,3 +1,9 @@
+---
+tags: cssi, javascript, jquery
+level: 2
+languages: javascript
+---
+
 # Lecture Example - jQuery
 
 ## Objectives
@@ -98,7 +104,7 @@ jQuery can respond to a wide variety of Events which you should read about in th
 + Moving the mouse over an element (often used for menu highlights)
 + Submitting an HTML form
 + Pressing the keyboard buttons
-+ And [MORE](https://api.jquery.com/category/events/)!! 
++ And [MORE](https://api.jquery.com/category/events/)!!
 
 ### Document Ready as an Event
 
@@ -106,7 +112,7 @@ If you remember our `$(document).ready()` function, you can now see that it is j
 
 ```js
 $( document ).ready(function() {
-  // Here are all the functions that 
+  // Here are all the functions that
   // will be run when the document is ready.
 });
 ```
@@ -133,11 +139,11 @@ Here the `$(this)` refers to the button that we selected with the jQuery selecto
 
 ### Animations
 
-jQuery also has support for basic animations. They work by selecting the element and calling the function on it with a `.` between the functions. 
+jQuery also has support for basic animations. They work by selecting the element and calling the function on it with a `.` between the functions.
 
 ```js
 // Show the HTML element with id="panel"
-$("#panel").show(); 
+$("#panel").show();
 
 // Hide that same element
 $("#panel").hide();
@@ -145,7 +151,7 @@ $("#panel").hide();
 
  Here are some favorites:
 
-+ `.show()` - Shows the selected element 
++ `.show()` - Shows the selected element
 + `.hide()` - Hide an element
 + `.fadeIn()` - Show an element with a slow fade
 + `.fadeOut()` - Fade out the element
@@ -154,7 +160,7 @@ Check the [documentation](https://api.jquery.com/category/effects/) for more exa
 
 ### Chaining Methods
 
-Up until this point we've been writing jQuery statements one at a time. However, when you want to do multiple things to an element you can *chain* multiple commands together so you don't need to look up an element over and over again. 
+Up until this point we've been writing jQuery statements one at a time. However, when you want to do multiple things to an element you can *chain* multiple commands together so you don't need to look up an element over and over again.
 
 For Example, if we wanted an element to turn blue, and then move down and up we could write it this way:
 
@@ -184,7 +190,7 @@ As with all coding the internet is your friend!!! Whenever you are stuck, try a 
 
 ## Conclusion / So What?
 
-jQuery and other libraries allow you to do amazingly complex stuff with a simple function call. Any developer worth their salt will want to make a website that responds to the user. jQuery events let you do that. 
+jQuery and other libraries allow you to do amazingly complex stuff with a simple function call. Any developer worth their salt will want to make a website that responds to the user. jQuery events let you do that.
 
 ## Hints and Hurdles
 + `$(this)` can be confusing, remember it refers to the element that the event handler was called on
