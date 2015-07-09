@@ -57,7 +57,7 @@
     <tr>
         <td>2:50 - 3:00</td>
         <td> Wrap Up</td>
-        <td> 
+        <td>
             Tell the kids they're awesome.
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a>
@@ -78,6 +78,6 @@
 
 ## Hints and Hurdles
 
-+ The ToDo is probably too long to finish in one session - let the students know they'll have time tomorrow to keep working on it. 
++ The ToDo is probably too long to finish in one session - let the students know they'll have time tomorrow to keep working on it.
 + This is a packed day. The jQuery lecture has a lot of content, and all of the labs are challenging. As always, remember to remind students that it's okay if it's okay if it feels hard - that means they're learning!
-+ Day 5 has some time built in for a review lecture, and the majority of the day will be spent on a group project, so don't worry if some concepts need to be solidified more. 
++ Day 5 has some time built in for a review lecture, and the majority of the day will be spent on a group project, so don't worry if some concepts need to be solidified more.
